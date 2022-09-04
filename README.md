@@ -1,17 +1,20 @@
 # Mitochondrial Long-read Iterative Assembly (MLIA)
 
 
-## TOOLS
 
 
 
-### MLIA.sh
+## Tools
+
+
+
+**MLIA.sh**
 
 The shell scripts of Mitochondrial Long-read Iterative Assembly (MLIA) pipeline 
 
 
 
-### MLIA.smk
+**MLIA.smk**
 
 Mitochondrial Long-read Iterative Assembly (MLIA) pipeline created by the Snakemake workflow management system.
 
