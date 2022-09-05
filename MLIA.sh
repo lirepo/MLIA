@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-#通过将Pacbio比对到邻近物种mito基因组上，提取比对序列进行组装；将新组装的contig重新上述过程。
+
 
 
 #run path
