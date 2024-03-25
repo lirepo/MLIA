@@ -35,7 +35,8 @@ Mitochondrial Long-read Iterative Assembly (MLIA) pipeline created by the Snakem
 
 ## cite
 
-Ji X, Tian Y, Liu W, Lin C, He F, Yang J, Miao W, Li Z. Mitochondrial characteristics of the powdery mildew genus Erysiphe revealed an extraordinary evolution in protein-coding genes. Int J Biol Macromol. 2023 Jan 4:123153. doi: 10.1016/j.ijbiomac.2023.123153. Epub ahead of print. PMID: 36610569.
+Ji X, Tian Y, Liu W, Lin C, He F, Yang J, Miao W, Li Z. Mitochondrial characteristics of the powdery mildew genus Erysiphe revealed an extraordinary evolution in protein-coding genes. Int J Biol Macromol. 2023 Mar 1;230:123153. doi: 10.1016/j.ijbiomac.2023.123153. Epub 2023 Jan 5. PMID: 36610569.
+
 
 
 
